@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "10297283904",
+    "firebase_url": "https://gariyo-ridesharing-b1ef8-default-rtdb.firebaseio.com",
+    "project_id": "gariyo-ridesharing-b1ef8",
+    "storage_bucket": "gariyo-ridesharing-b1ef8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10297283904:android:096edfe493e9a23eae56a5",
+        "android_client_info": {
+          "package_name": "com.shruti.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10297283904-j5tekl7587oneoe7usc00ng313k7ucii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDevbJG3_NJ3wK_u-GjXYz-pA-vUHtZdkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10297283904-j5tekl7587oneoe7usc00ng313k7ucii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10297283904:android:0d133461f04a54c1ae56a5",
+        "android_client_info": {
+          "package_name": "com.shruti.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10297283904-j5tekl7587oneoe7usc00ng313k7ucii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDevbJG3_NJ3wK_u-GjXYz-pA-vUHtZdkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10297283904-j5tekl7587oneoe7usc00ng313k7ucii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
